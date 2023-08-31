@@ -32,7 +32,6 @@
             display: flex;
             gap: 20px;
             list-style-type: none;
-            border-bottom: 1px solid white;
             float: right;
 
             li {
@@ -127,7 +126,6 @@
             display: flex;
             gap: 20px;
             list-style-type: none;
-            border-bottom: 1px solid white;
             float: right;
 
             li {
@@ -207,13 +205,12 @@
             display: flex;
             gap: 20px;
             list-style-type: none;
-            border-bottom: 1px solid white;
             float: right;
 
             li {
                 font-family: $interfaces;
                 color: white;
-
+                                    
                 &:hover {
                     background-color: white;
                     color: $primary;
