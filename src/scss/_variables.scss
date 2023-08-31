@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'lastica'; /* Give your font a name */
+    src: url('../../assets/fonts/FontsFree-Net-Lastica.ttf') format('truetype');
+    /* You can also provide additional formats like woff, woff2, etc. */
+}
+
+@font-face {
+    font-family: 'interfaces'; /* Give your font a name */
+    src: url('../../assets/fonts/FontsFree-Net-TTInterfaces-Regular.ttf') format('truetype');
+    /* You can also provide additional formats like woff, woff2, etc. */
+}
+
+// fonts 
+$lastica: 'lastica';
+$interfaces: 'interfaces';
+
+// colors
+$primary: #2B233C;
